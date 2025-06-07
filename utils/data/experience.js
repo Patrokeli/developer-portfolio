@@ -3,13 +3,13 @@ export const experiences = [
     id: 1,
     title: "Software developer(Field) ",
     company: "Zalongwa Private Ltd.",
-    duration: "(Jan 2022 - Present)",
+    duration: "(July 2024 - Aug 2024)",
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2022 - Jan 2024)",
+    title: "Backend Developer",
+    company: "Forecasta (freelance)",
+    duration: "(Jun 2022 - present)",
   },
   {
     id: 3,
